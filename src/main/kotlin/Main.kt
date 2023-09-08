@@ -39,7 +39,10 @@ fun main(args: Array<String>) {
 //Задача 7
     var counter = 0
     while (counter < 10)
+    {
+        print("counter равен $counter; ")
         counter+=1
+    }
 //----------------------------
 
 //Задача 8
